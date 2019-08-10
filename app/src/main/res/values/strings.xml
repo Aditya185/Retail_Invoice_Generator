@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Retail Invoice Generator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="show">Show</string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="phone_status">"Phone Status: "</string>
+    <string name="ringing">"RINGING, number: "</string>
+    <string name="offhook">OFFHOOK</string>
+    <string name="idle">IDLE</string>
+    <string name="restarting_app">Restarting app</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED!</string>
+    <string name="dial_number">"Phone Status: DIALING: "</string>
+    <string name="failure_permission">Failure to obtain permission!</string>
+    <string name="telephony_enabled">Telephony is enabled</string>
+    <string name="telephony_not_enabled">"TELEPHONY NOT ENABLED! "</string>
+    <string name="call">Call</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="phone_disabled">Phone calling disabled.</string>
+    <string name="retry">Retry</string>
+    <string name="sms_disabled">SMS usage disabled</string>
+    <string name="granted_permission">Permission Granted</string>
+
+</resources>
