@@ -15,16 +15,16 @@
 3. Simply run the app.
 
 ## Some Screenshots of this app
-![ sign up](/images/sign.png)
+![ sign up](/images/customers.png)
 
-![ chat status](/images/chats.png)
+![ chat status](/images/date.png)
 
-![profile ](/images/profile.png)
+![profile ](/images/fill.png)
 
-![chat  ](/images/chat.png)
+![chat  ](/images/item.png)
 
-![ notify](/images/notify.png)
+![ notify](/images/sms.png)
 
-![find friends ](/images/find.png)
+
 
 
