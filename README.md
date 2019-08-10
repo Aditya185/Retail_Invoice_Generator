@@ -15,7 +15,7 @@
 3. Simply run the app.
 
 ## Some Screenshots of this app
-![ sign up](/images/customers.png)
+
 
 ![ chat status](/images/date.png)
 
@@ -23,7 +23,6 @@
 
 ![chat  ](/images/item.png)
 
-![ notify](/images/sms.png)
 
 
 
